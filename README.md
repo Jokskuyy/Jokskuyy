@@ -1,62 +1,114 @@
-<h1 align="center">Hi 👋, I'm Muhammad Iman Nugraha</h1> 
+<div align="center">
 
-<h3 align="center">
-👨‍💻 Informatics Student | Data Science Enthusiast | Software Developer
-</h3> 
+# Hi there! 👋 I'm Muhammad Iman Nugraha
 
-<p align="center">
-I'm a 5th-semester Informatics student at Universitas Pembangunan Nasional Jakarta, deeply interested in Data Science and Software Development. I enjoy exploring how data can inform decision-making and optimize systems. Currently, I’m focused on building expertise in data science, machine learning, and enhancing my programming skills in Python and SQL.
-</p>
+### 🚀 Informatics Student • Web Developer • ML Enthusiast
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;Web+Development+%26+Machine+Learning;Always+learning+something+new!" alt="Typing SVG" />
 
-### 🌱 About Me
-- 💼 Currently studying Advanced AI at IBM Academy, always eager to apply my skills in real-world projects.
-- 👀 Actively seeking internships or part-time roles in **Data Science** or **Software Engineering**.
-- 📊 Passionate about analyzing data and using tools like Google Analytics to drive insights into website performance.
-- 💡 Enthusiastic about exploring the intersection of technology and business, especially in optimizing digital products through data-driven insights.
+</div>
 
 ---
 
-### 🤝 Connect with Me
-<p>
-    <a href="https://linkedin.com/in/muhammad iman nugraha" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Muhammad Iman Nugraha" height="30" width="40" />
-    </a> 
-    <a href="https://instagram.com/muhammad_iman3040" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - muhammad_iman3040" height="30" width="40" />
-    </a>
-</p>
+<div align="center">
+
+### 🎯 Current Focus
+
+🌐 **Web Development** • 🤖 **Machine Learning** • 📚 **Continuous Learning**
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🧑‍💻 About Me
+- 🎓 Informatics student at UPN Jakarta
+- 💻 Passionate about creating digital solutions
+- 🔬 Exploring AI and ML applications
+- 🌱 Always eager to learn new technologies
+- 🎯 Seeking opportunities in **Web Dev** & **ML Engineering**
+
+</td>
+<td width="50%">
+
+### 🎯 What I'm Up To
+- 🔨 Building modern web applications
+- 🤖 Developing ML models for real-world problems
+- 📖 Learning cutting-edge technologies
+- 🚀 Working on exciting personal projects
+- 💡 Exploring the intersection of web & AI
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Languages and Tools
-<p>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
-    <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="GTK" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-    <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/> </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
-</p>
+<div align="center">
+
+### 🛠️ Tech Stack
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Machine Learning & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+#### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
 
 ---
 
-### 📈 GitHub Stats
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jokskuyy&show_icons=true&locale=en&layout=compact" alt="Top Languages - jokskuyy" />
-</p>
+<div align="center">
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jokskuyy&show_icons=true&locale=en" alt="GitHub Stats - jokskuyy" />
-</p>
+### 📊 GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jokskuyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokskuyy&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect!
+
+<a href="https://linkedin.com/in/muhammad iman nugraha" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/muhammad_iman3040" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Fun Fact
+*"The best way to predict the future is to create it!"* 🚀
+
+<img src="https://komarev.com/ghpvc/?username=jokskuyy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
