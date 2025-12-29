@@ -52,9 +52,9 @@ Freelance web developer with 2+ years of experience building modern, responsive 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jokskuyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jokskuyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jokskuyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jokskuyy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
