@@ -1,113 +1,74 @@
-<div align="center">
+# Muhammad Iman Nugraha
 
-# Hi there! 👋 I'm Muhammad Iman Nugraha
+**Full Stack Web Developer** | Informatics Student at UPN Jakarta
 
-### 🚀 Informatics Student • Web Developer • ML Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;Web+Development+%26+Machine+Learning;Always+learning+something+new!" alt="Typing SVG" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/muhammad%20iman%20nugraha)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/jokskuyy)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram)](https://instagram.com/muhammad_iman3040)
 
 ---
 
-<div align="center">
+## About
 
-### 🎯 Current Focus
+Freelance web developer with 2+ years of experience building modern, responsive web applications. Passionate about crafting elegant solutions with clean code and innovative technologies.
 
-🌐 **Web Development** • 🤖 **Machine Learning** • 📚 **Continuous Learning**
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🧑‍💻 About Me
-- 🎓 Informatics student at UPN Jakarta
-- 💻 Passionate about creating digital solutions
-- 🔬 Exploring AI and ML applications
-- 🌱 Always eager to learn new technologies
-- 🎯 Seeking opportunities in **Web Dev** & **ML Engineering**
-
-</td>
-<td width="50%">
-
-### 🎯 What I'm Up To
-- 🔨 Building modern web applications
-- 🤖 Developing ML models for real-world problems
-- 📖 Learning cutting-edge technologies
-- 🚀 Working on exciting personal projects
-- 💡 Exploring the intersection of web & AI
-
-</td>
-</tr>
-</table>
+**Status:** Available for freelance projects and collaborations
 
 ---
 
-<div align="center">
+## Tech Stack
 
-### 🛠️ Tech Stack
+**Frontend**  
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-#### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Backend**  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-#### Backend & Database
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Database**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-#### Machine Learning & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**DevOps & Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-#### Tools & Others
-![Wokwi](https://img.shields.io/badge/Wokwi-FF6B35?style=for-the-badge&logo=arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jokskuyy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokskuyy&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+**Design**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-<div align="center">
+## GitHub Stats
 
-### 🤝 Let's Connect!
-
-<a href="https://linkedin.com/in/muhammad iman nugraha" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/muhammad_iman3040" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jokskuyy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokskuyy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</p>
 
 ---
 
-<div align="center">
+## Contact
 
-### 💡 Fun Fact
-*"The best way to predict the future is to create it!"* 🚀
+📧 **Email:** imannugraha@example.com  
+💼 **LinkedIn:** [Muhammad Iman Nugraha](https://linkedin.com/in/muhammad%20iman%20nugraha)  
+💻 **GitHub:** [@jokskuyy](https://github.com/jokskuyy)
 
-<img src="https://komarev.com/ghpvc/?username=jokskuyy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+---
 
-</div>
+<p align="center">
+  <i>"The best way to predict the future is to create it."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jokskuyy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
