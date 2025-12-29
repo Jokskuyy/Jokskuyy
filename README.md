@@ -52,9 +52,11 @@ Freelance web developer with 2+ years of experience building modern, responsive 
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-master-muhammad-iman-nugrahas-projects.vercel.app/api?username=jokskuyy&show_icons=true&theme=tokyonight" />
+## GitHub Stats
 
-<img src="https://github-readme-stats-git-master-muhammad-iman-nugrahas-projects.vercel.app/api/top-langs/?username=jokskuyy&layout=compact&theme=tokyonight" />
+![GitHub Stats](https://github-readme-stats-git-master-muhammad-iman-nugrahas-projects.vercel.app/api?username=jokskuyy&show_icons=true&theme=tokyonight&v=2)
+
+![Top Languages](https://github-readme-stats-git-master-muhammad-iman-nugrahas-projects.vercel.app/api/top-langs/?username=jokskuyy&layout=compact&theme=tokyonight&v=2)
 
 
 </div>
