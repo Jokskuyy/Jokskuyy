@@ -13,7 +13,7 @@
 Freelance web developer with 2+ years of experience building modern, responsive web applications. Passionate about crafting elegant solutions with clean code and innovative technologies.
 
 **Status:** Available for freelance projects and collaborations
-
+ 
 ---
 
 ## Tech Stack
