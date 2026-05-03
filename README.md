@@ -14,7 +14,7 @@
 <!-- Social Badges -->
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad%20iman%20nugraha)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nugraha-9bb016286/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jokskuyy)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammad_iman3040)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/391515456600801280)
@@ -41,10 +41,10 @@ role: Full Stack Web Developer
 experience: 2+ years
 
 currently:
-  - 🔭 Working on freelance web projects
-  - 🌱 Exploring cloud architecture & DevOps
-  - 💬 Ask me about React, Laravel, or Node.js
-  - ⚡ Fun fact: I debug with console.log and I'm not ashamed
+  - Working on freelance web projects
+  - Exploring cloud architecture & DevOps
+  - Ask me about React, Laravel, or Node.js
+  - Fun fact: I debug with console.log and I'm not ashamed
 
 status: "Available for freelance & collaborations"
 ```
@@ -57,32 +57,32 @@ status: "Available for freelance & collaborations"
 <br/>
 
 <!-- Tech Stack -->
-## 🛠️ &nbsp;Tech Stack
+## &nbsp;Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend
+### Frontend
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind,vite&theme=dark" alt="Frontend Skills"/>
   </a>
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,php&theme=dark" alt="Backend Skills"/>
   </a>
 </p>
 
-### 🗄️ Database & Cloud
+### Database & Cloud
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,aws&theme=dark" alt="Database Skills"/>
   </a>
 </p>
 
-### 🔧 DevOps & Tools
+### DevOps & Tools
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,vercel,figma,vscode&theme=dark" alt="DevOps & Tools"/>
@@ -99,7 +99,7 @@ status: "Available for freelance & collaborations"
 <br/>
 
 <!-- GitHub Stats -->
-## 📊 &nbsp;GitHub Analytics
+## &nbsp;GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-git-master-muhammad-iman-nugrahas-projects.vercel.app/api?username=jokskuyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats"/>
@@ -128,7 +128,7 @@ status: "Available for freelance & collaborations"
 <br/>
 
 <!-- Discord -->
-## 🎮 &nbsp;Discord Presence
+## &nbsp;Discord Presence
 
 <div align="center">
 
@@ -159,7 +159,7 @@ status: "Available for freelance & collaborations"
 <br/>
 
 <!-- Contact -->
-## 📬 &nbsp;Let's Connect
+## &nbsp;Let's Connect
 
 <div align="center">
 
@@ -167,7 +167,7 @@ status: "Available for freelance & collaborations"
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/muhammad%20iman%20nugraha">
+  <a href="https://www.linkedin.com/in/muhammad-nugraha-9bb016286/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -189,8 +189,6 @@ status: "Available for freelance & collaborations"
   <img src="https://komarev.com/ghpvc/?username=jokskuyy&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
 
   <br/><br/>
-
-  <sub>⭐ From <a href="https://github.com/jokskuyy">jokskuyy</a> with 💜</sub>
 
 </div>
 
