@@ -42,7 +42,7 @@ Full case studies, screenshots, and write-ups live on my [portfolio site](https:
 
 ## Toolbox
 
-<img align="right" src="assets/workstation.webp" alt="Workstation illustration from Iman's portfolio" width="180"/>
+<img align="right" src="assets/workstation.webp" alt="Workstation illustration from Iman's portfolio" width="156"/>
 
 - **Frontend** — React, TypeScript, Next.js, Tailwind, Vite
 - **Backend** — Node.js, Express, Python
