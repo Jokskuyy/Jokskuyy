@@ -51,6 +51,7 @@ Full case studies, screenshots, and write-ups live on my [portfolio site](https:
 - **Quality** — node:test, self-check scripts, CI via GitHub Actions
 - **Design** — dark-mode-first UI, halftone and comic art direction, borrowed from my portfolio
 - **Languages** — TypeScript, JavaScript, Python, SQL
+- **Publishing** — GitHub Pages, Vercel
 - **Interests** — agentic workflows, evaluation-driven development, device simulation, thesis automation
 
 <br clear="both"/>
