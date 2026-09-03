@@ -15,7 +15,7 @@
 
 ## About me
 
-<img align="right" src="assets/avatar.webp" alt="Comic avatar illustration of Iman" width="220"/>
+<img align="right" src="assets/avatar.webp" alt="Comic avatar illustration of Iman" width="214"/>
 
 I build products with AI, not just apps that call an AI API. My workflow plans with agentic tooling, implements with AI pair-programmers, then verifies everything myself — I sign my name on code I understand, so I never ship a diff I cannot explain.
 
@@ -50,6 +50,8 @@ Full case studies, screenshots, and write-ups live on my [portfolio site](https:
 - **AI tooling** — Hermes Agent, Claude Code, Gemini API, provider-agnostic AI layers (mock / OpenAI / Anthropic / Gemini)
 - **Quality** — node:test, self-check scripts, CI via GitHub Actions
 - **Design** — dark-mode-first UI, halftone and comic art direction, borrowed from my portfolio
+- **Languages** — TypeScript, JavaScript, Python, SQL
+- **Interests** — agentic workflows, evaluation-driven development, device simulation, thesis automation
 
 <br clear="both"/>
 
