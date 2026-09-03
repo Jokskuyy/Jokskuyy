@@ -57,9 +57,9 @@ Full case studies, screenshots, and write-ups live on my [portfolio site](https:
 <br clear="both"/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jokskuyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats-git-master-muhammad-iman-nugrahas-projects.vercel.app/api?username=jokskuyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokskuyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top languages"/>
+  <img height="180em" src="https://github-readme-stats-git-master-muhammad-iman-nugrahas-projects.vercel.app/api/top-langs/?username=jokskuyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top languages"/>
 </div>
 
 <br/>
