@@ -1,195 +1,68 @@
-<!-- Header -->
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Muhammad+Iman+Nugraha;Full+Stack+Web+Developer" alt="Typing SVG" />
+# Muhammad Iman Nugraha
 
-  <br/>
+**Building AI-native products end-to-end** · Informatics @ UPNVJ, Jakarta
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=16&duration=4000&pause=800&color=8B85FF&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Building+elegant+solutions+with+clean+code+%F0%9F%9A%80;Freelance+Developer+%7C+2%2B+Years+of+Experience+%F0%9F%92%BC;Open+for+Collaborations+%26+Freelance+Projects+%E2%9C%A8" alt="Subtitle Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nugraha-9bb016286/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jokskuyy)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/muhammad_iman3040)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/391515456600801280)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:imannnnugraha@gmail.com)
 
 </div>
 
-<br/>
+---
 
-<!-- Social Badges -->
-<div align="center">
+## About me
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nugraha-9bb016286/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jokskuyy)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/muhammad_iman3040)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/391515456600801280)
+<img align="right" src="assets/avatar.webp" alt="Iman's comic avatar illustration" width="280"/>
 
-</div>
+I'm an Informatics student at UPNVJ who builds products with AI, not just apps that call an AI API. My workflow mixes agentic tooling (Hermes Agent, Claude Code) with plain manual verification — I want to understand and own the code AI helps me write.
 
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- About Me -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320">
-
-```yaml
-name: Muhammad Iman Nugraha
-location: Jakarta, Indonesia 🇮🇩
-education: Informatics @ UPN Jakarta
-role: Full Stack Web Developer
-experience: 2+ years
-
-currently:
-  - Working on freelance web projects
-  - Exploring cloud architecture & DevOps
-  - Ask me about React, Laravel, or Node.js
-  - Fun fact: I debug with console.log and I'm not ashamed
-
-status: "Available for freelance & collaborations"
-```
+- 🎓 Informatics @ UPNVJ, class of 2026
+- ⚛️ Strongest in React + TypeScript, growing toward full product ownership
+- 🤖 AI layer is provider-agnostic in my projects: swap mock / OpenAI / Anthropic / Gemini without touching app code
+- 🧪 I test what I ship — AI contracts, unit tests, self-checks, and live URL checks before push
+- 🌱 Currently: agentic AI workflows, evaluation-driven development, and real-time IoT
 
 <br clear="both"/>
 
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## Featured projects
 
-<br/>
+**JobTrack AI** — AI-assisted job application tracker with a Kanban pipeline and per-application AI scoring.
+`Next.js` `TypeScript` `SQLite` `Gemini` — [repo](https://github.com/Jokskuyy/jobtrack-ai)
 
-<!-- Tech Stack -->
-## &nbsp;Tech Stack
+**Smart Home IoT Platform** — 7 microservices + API gateway talking over MQTT, with a Node.js device simulator replacing physical ESP32 hardware.
+`Node.js` `Express` `MySQL` `MQTT` `Docker` — [repo](https://github.com/Jokskuyy/smart_home)
 
-<div align="center">
+**Jalan Kebenaran** — Interactive 16-week roadmap for mastering agentic AI clients, from tool use to evaluation.
+`TypeScript` — [repo](https://github.com/Jokskuyy/jalan-kebenaran)
 
-### Frontend
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind,vite&theme=dark" alt="Frontend Skills"/>
-  </a>
-</p>
+**Dashboard Profile UPNVJ** — Campus profile dashboard with Supabase auth/RLS and an Express API for protected data.
+`React` `TypeScript` `Supabase` `Express` — [repo](https://github.com/Jokskuyy/dashboard-profile-upnvj)
 
-### Backend
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,php&theme=dark" alt="Backend Skills"/>
-  </a>
-</p>
+**Workflow TA Proyek** — Document automation pipeline for my thesis project: content suggestions with explicit approval, citation/factual guards, automated tests.
+`Python` `DOCX` — [repo](https://github.com/Jokskuyy/workflow-ta-proyek)
 
-### Database & Cloud
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,aws&theme=dark" alt="Database Skills"/>
-  </a>
-</p>
+More experiments and older work: [albion-refining-calculator](https://github.com/Jokskuyy/Albion-Refining-Calculator), [tap-titan-critter-haven](https://github.com/Jokskuyy/tap-titan-critter-haven), [Peta-UPNVJ](https://github.com/Jokskuyy/Peta-UPNVJ)
 
-### DevOps & Tools
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,vercel,figma,vscode&theme=dark" alt="DevOps & Tools"/>
-  </a>
-</p>
+## Toolbox
 
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- GitHub Stats -->
-## &nbsp;GitHub Analytics
+Frontend: `React` `TypeScript` `Next.js` `Tailwind` · Backend: `Node.js` `Express` `Python` · Data & infra: `MySQL` `Supabase` `Docker` `MQTT` · AI tooling: `Hermes Agent` `Claude Code` `Gemini` · Everything: `Git` `GitHub Actions`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-muhammad-iman-nugrahas-projects.vercel.app/api?username=jokskuyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jokskuyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-git-master-muhammad-iman-nugrahas-projects.vercel.app/api/top-langs/?username=jokskuyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokskuyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jokskuyy&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6C6C&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jokskuyy&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- Discord -->
-## &nbsp;Discord Presence
-
-<div align="center">
-
-  [![Discord Presence](https://lanyard.cnrad.dev/api/391515456600801280?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=Probably%20coding%20something%20cool...)](https://discord.com/users/391515456600801280)
-
-  <br/>
-  <sub>🟢 Real-time status powered by <a href="https://github.com/Phineas/lanyard">Lanyard</a></sub>
-</div>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- Snake -->
-<div align="center">
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jokskuyy/jokskuyy/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jokskuyy/jokskuyy/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/jokskuyy/jokskuyy/output/github-snake.svg" />
   </picture>
-
 </div>
-
-<br/>
-
-<!-- Contact -->
-## &nbsp;Let's Connect
-
-<div align="center">
-
-  <a href="mailto:imannnnugraha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-nugraha-9bb016286/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/jokskuyy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-</div>
-
-<br/>
-
-<!-- Footer -->
-<div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=jokskuyy&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-
-  <br/><br/>
-
-</div>
-
-<!-- End -->
