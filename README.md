@@ -1,51 +1,73 @@
+<div align="center">
+
 # Muhammad Iman Nugraha
 
-**Software Developer · Web Applications & Practical Integrations**
+**Building AI-native products end-to-end** — Informatics @ UPNVJ, Jakarta
 
-<img src="assets/avatar.webp" alt="Illustrated portrait of Iman Nugraha" width="144" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nugraha-9bb016286/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jokskuyy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=flat&logo=vercel&logoColor=white)](https://jokskuyy.github.io/LandingPageIman/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:imannnnugraha@gmail.com)
 
-I'm Iman. I work on web applications that connect useful interfaces with data and external services. My projects include a job application tracker, a campus information dashboard, and a simulated smart home system.
+</div>
 
-I'm interested in turning a defined problem into software people can inspect and try. The repositories below show application development, database access, and communication between services, with source code available for a closer look.
+---
 
-## Selected Work
+## About me
 
-### [JobTrack](https://github.com/Jokskuyy/jobtrack-ai)
+<img align="right" src="assets/avatar.webp" alt="Comic avatar illustration of Iman" width="214"/>
 
-*Personal project*
+I build products with AI, not just apps that call an AI API. My workflow plans with agentic tooling, implements with AI pair-programmers, then verifies everything myself — I sign my name on code I understand, so I never ship a diff I cannot explain.
 
-A web application for organizing job applications in a Kanban pipeline. Applications are stored in SQLite, with status changes saved as cards move between stages. The implementation brings together a Next.js interface, account sessions, and server-side data access.
+- **Education** — Informatics @ UPNVJ, class of 2026
+- **Focus** — AI-native product building, frontend-rooted in React and TypeScript
+- **Workflow** — plan with Hermes Agent, implement with Claude Code, verify by hand before push
+- **Testing** — AI-contract checks, unit tests, self-checks, and live URL verification on every release
+- **Currently** — evaluation-driven agent workflows, MQTT device simulation, thesis document automation
+- **Contact** — [imannnnugraha@gmail.com](mailto:imannnnugraha@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-nugraha-9bb016286/) · [Portfolio](https://jokskuyy.github.io/LandingPageIman/)
 
-**Technologies:** Next.js, TypeScript, SQLite.
+<br clear="both"/>
 
-### [Dashboard Profile UPNVJ](https://github.com/Jokskuyy/dashboard-profile-upnvj)
+## Featured projects
 
-*University final project*
+| Project | What it does | Built with |
+|---|---|---|
+| [JobTrack AI](https://github.com/Jokskuyy/jobtrack-ai) | AI-assisted job application tracker: Kanban pipeline with per-application AI scoring | Next.js, TypeScript, SQLite, Gemini |
+| [Smart Home IoT](https://github.com/Jokskuyy/smart_home) | 7 microservices behind an API gateway, talking over MQTT, with a Node.js simulator standing in for ESP32 hardware | Node.js, Express, MySQL, MQTT, Docker |
+| [Jalan Kebenaran](https://github.com/Jokskuyy/jalan-kebenaran) | Interactive 16-week roadmap for mastering agentic AI clients, from tool use to evaluation | TypeScript |
+| [Dashboard UPNVJ](https://github.com/Jokskuyy/dashboard-profile-upnvj) | Campus profile dashboard with Supabase auth/RLS and an Express API guarding the data layer | React, TypeScript, Supabase, Express |
+| [Workflow TA Proyek](https://github.com/Jokskuyy/workflow-ta-proyek) | Thesis document pipeline: AI content suggestions with explicit approval, citation/factual guards, automated tests | Python, DOCX |
 
-A dashboard for exploring UPNVJ faculty, study-program, building, and facility information. It combines public views, admin data-management screens, and a Unity WebGL campus view. The frontend uses the Supabase SDK directly, alongside separate Express endpoints for room, building, and Unity data.
+Full case studies, screenshots, and write-ups live on my [portfolio site](https://jokskuyy.github.io/LandingPageIman/). Older experiments: [Albion Refining Calculator](https://github.com/Jokskuyy/Albion-Refining-Calculator) · [Tap Titan Critter Haven](https://github.com/Jokskuyy/tap-titan-critter-haven) · [Peta UPNVJ](https://github.com/Jokskuyy/Peta-UPNVJ)
 
-**Technologies:** React, TypeScript, Supabase, Express.
+## Toolbox
 
-### [Smart Home IoT](https://github.com/Jokskuyy/smart_home)
+<img align="right" src="assets/workstation.webp" alt="Workstation illustration from Iman's portfolio" width="156"/>
 
-*Personal project*
+- **Frontend** — React, TypeScript, Next.js, Tailwind, Vite
+- **Backend** — Node.js, Express, Python
+- **Data & infra** — MySQL, Supabase, Docker, MQTT
+- **AI tooling** — Hermes Agent, Claude Code, Gemini API, provider-agnostic AI layers (mock / OpenAI / Anthropic / Gemini)
+- **Quality** — node:test, self-check scripts, CI via GitHub Actions
+- **Design** — dark-mode-first UI, halftone and comic art direction, borrowed from my portfolio
+- **Languages** — TypeScript, JavaScript, Python, SQL
+- **Publishing** — GitHub Pages, Vercel
+- **Interests** — agentic workflows, evaluation-driven development, device simulation, thesis automation
 
-A software project for exploring sensor monitoring and device control. Seven services sit behind an API gateway, with MQTT carrying readings and commands and MySQL storing sensor data. A Node.js device simulator generates sensor events and responds to actuator controls.
+<br clear="both"/>
 
-**Technologies:** Node.js, Express, MQTT, MySQL, Docker Compose.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-master-muhammad-iman-nugrahas-projects.vercel.app/api?username=jokskuyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub stats"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-git-master-muhammad-iman-nugrahas-projects.vercel.app/api/top-langs/?username=jokskuyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top languages"/>
+</div>
 
-## Relevant Technologies
+<br/>
 
-- **Interfaces:** TypeScript, JavaScript, React, Next.js.
-- **Data and services:** Node.js, Express, SQLite, Supabase, MySQL.
-- **Service integration:** MQTT, Docker Compose.
-
-## How I Work
-
-I share project source code so others can inspect the implementation. These repositories also include ways to check specific behavior: JobTrack has self-checks for response validation and error handling, while Smart Home has a simulator for exploring sensor and actuator interactions.
-
-## Connect
-
-I'm open to discussing project collaborations and relevant software development opportunities. Feel free to reach out with the problem, the current setup, and what you want the software to do.
-
-[Portfolio](https://jokskuyy.github.io/LandingPageIman/) · [LinkedIn](https://www.linkedin.com/in/muhammad-nugraha-9bb016286/) · [Email](mailto:imannnnugraha@gmail.com)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jokskuyy/jokskuyy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jokskuyy/jokskuyy/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jokskuyy/jokskuyy/output/github-snake.svg" />
+  </picture>
+</div>
