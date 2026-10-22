@@ -1,73 +1,41 @@
-<div align="center">
-
 # Muhammad Iman Nugraha
 
-**Building AI-native products end-to-end** — Informatics @ UPNVJ, Jakarta
+**Junior Fullstack Developer · Jakarta, Indonesia**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nugraha-9bb016286/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jokskuyy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=flat&logo=vercel&logoColor=white)](https://jokskuyy.github.io/LandingPageIman/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:imannnnugraha@gmail.com)
+I build web applications with React, TypeScript, and Node.js. I'm an Informatics graduate from UPN Veteran Jakarta, with experience as a Front-End Intern at Mantra.
 
-</div>
+I'm open to junior frontend, backend, and fullstack opportunities.
 
----
+[Portfolio](https://jokskuyy.github.io/LandingPageIman/) · [LinkedIn](https://www.linkedin.com/in/muhammad-nugraha-9bb016286/) · [Email](mailto:imannnnugraha@gmail.com)
 
-## About me
+## Selected projects
 
-<img align="right" src="assets/avatar.webp" alt="Comic avatar illustration of Iman" width="214"/>
+### Dashboard Profile UPNVJ
 
-I build products with AI, not just apps that call an AI API. My workflow plans with agentic tooling, implements with AI pair-programmers, then verifies everything myself — I sign my name on code I understand, so I never ship a diff I cannot explain.
+A university information dashboard with public views, admin data management, and a Unity campus view. The React application uses Supabase directly; separate API endpoints serve building and room data to Unity.
 
-- **Education** — Informatics @ UPNVJ, class of 2026
-- **Focus** — AI-native product building, frontend-rooted in React and TypeScript
-- **Workflow** — plan with Hermes Agent, implement with Claude Code, verify by hand before push
-- **Testing** — AI-contract checks, unit tests, self-checks, and live URL verification on every release
-- **Currently** — evaluation-driven agent workflows, MQTT device simulation, thesis document automation
-- **Contact** — [imannnnugraha@gmail.com](mailto:imannnnugraha@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-nugraha-9bb016286/) · [Portfolio](https://jokskuyy.github.io/LandingPageIman/)
+**React · TypeScript · Supabase · Express**<br>
+[Source](https://github.com/Jokskuyy/dashboard-profile-upnvj) · [Live demo](https://dashboard-profile-upnvj.vercel.app)
 
-<br clear="both"/>
+### Smart Home IoT
 
-## Featured projects
+A coursework project for sensor monitoring and device control. Seven services connect through an API gateway, with MQTT messages and MySQL storage. A Node.js device simulator supports exploration without physical hardware.
 
-| Project | What it does | Built with |
-|---|---|---|
-| [JobTrack AI](https://github.com/Jokskuyy/jobtrack-ai) | AI-assisted job application tracker: Kanban pipeline with per-application AI scoring | Next.js, TypeScript, SQLite, Gemini |
-| [Smart Home IoT](https://github.com/Jokskuyy/smart_home) | 7 microservices behind an API gateway, talking over MQTT, with a Node.js simulator standing in for ESP32 hardware | Node.js, Express, MySQL, MQTT, Docker |
-| [Jalan Kebenaran](https://github.com/Jokskuyy/jalan-kebenaran) | Interactive 16-week roadmap for mastering agentic AI clients, from tool use to evaluation | TypeScript |
-| [Dashboard UPNVJ](https://github.com/Jokskuyy/dashboard-profile-upnvj) | Campus profile dashboard with Supabase auth/RLS and an Express API guarding the data layer | React, TypeScript, Supabase, Express |
-| [Workflow TA Proyek](https://github.com/Jokskuyy/workflow-ta-proyek) | Thesis document pipeline: AI content suggestions with explicit approval, citation/factual guards, automated tests | Python, DOCX |
+**Node.js · Express · MQTT · MySQL · Docker Compose**<br>
+[Source and simulator setup](https://github.com/Jokskuyy/smart_home)
 
-Full case studies, screenshots, and write-ups live on my [portfolio site](https://jokskuyy.github.io/LandingPageIman/). Older experiments: [Albion Refining Calculator](https://github.com/Jokskuyy/Albion-Refining-Calculator) · [Tap Titan Critter Haven](https://github.com/Jokskuyy/tap-titan-critter-haven) · [Peta UPNVJ](https://github.com/Jokskuyy/Peta-UPNVJ)
+### Albion Refining Calculator
 
-## Toolbox
+A calculator for comparing crafting costs and refining profits across equipment, resource, and multi-tier modes, with input validation and a visible cost breakdown.
 
-<img align="right" src="assets/workstation.webp" alt="Workstation illustration from Iman's portfolio" width="156"/>
+**React · TypeScript · Vite**<br>
+[Source](https://github.com/Jokskuyy/Albion-Refining-Calculator) · [Live demo](https://albion-refining-calculator.vercel.app)
 
-- **Frontend** — React, TypeScript, Next.js, Tailwind, Vite
-- **Backend** — Node.js, Express, Python
-- **Data & infra** — MySQL, Supabase, Docker, MQTT
-- **AI tooling** — Hermes Agent, Claude Code, Gemini API, provider-agnostic AI layers (mock / OpenAI / Anthropic / Gemini)
-- **Quality** — node:test, self-check scripts, CI via GitHub Actions
-- **Design** — dark-mode-first UI, halftone and comic art direction, borrowed from my portfolio
-- **Languages** — TypeScript, JavaScript, Python, SQL
-- **Publishing** — GitHub Pages, Vercel
-- **Interests** — agentic workflows, evaluation-driven development, device simulation, thesis automation
+## Experience and tools
 
-<br clear="both"/>
+At Mantra, I worked on responsive pages, admin dashboards, form validation, and API integration within a Laravel application.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-muhammad-iman-nugrahas-projects.vercel.app/api?username=jokskuyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-git-master-muhammad-iman-nugrahas-projects.vercel.app/api/top-langs/?username=jokskuyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top languages"/>
-</div>
+**Frontend:** React, TypeScript, JavaScript, HTML/CSS, Tailwind CSS.<br>
+**Backend and data:** Node.js, Express, Supabase, PostgreSQL, MySQL.
 
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jokskuyy/jokskuyy/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jokskuyy/jokskuyy/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jokskuyy/jokskuyy/output/github-snake.svg" />
-  </picture>
-</div>
+More implementation details and project context are available in my [portfolio](https://jokskuyy.github.io/LandingPageIman/).
